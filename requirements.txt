@@ -1,0 +1,7 @@
+torch
+pygame
+numpy
+pandas
+gymnasium
+os
+gymnasium[box2d]
